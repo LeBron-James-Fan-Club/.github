@@ -8,7 +8,7 @@ From The Block to The Decision, we’re here for every highlight, every meme, an
 
 Bronsexuals unite!
 
-<frame src="https://giphy.com/embed/l0ExeE3E8SLsVwSCA" width="480" height="254" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/l0ExeE3E8SLsVwSCA" width="480" height="254" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 ## LeBron plays ball, We write code
 
