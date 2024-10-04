@@ -8,6 +8,8 @@ From The Block to The Decision, we’re here for every highlight, every meme, an
 
 Bronsexuals unite!
 
+![Lebron 4 the Win!!](https://giphy.com/gifs/nba-l0ExeE3E8SLsVwSCA)
+
 ## LeBron plays ball, We write code
 
 [em](https://github.com/LeBron-James-Fan-Club/em_language)
