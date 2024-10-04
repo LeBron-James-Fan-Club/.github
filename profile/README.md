@@ -7,3 +7,7 @@ Our motto? "LeBron is my sunshine, my only sunshine. He makes me happy when the 
 From The Block to The Decision, we’re here for every highlight, every meme, and every Taco Tuesday shoutout. If you’re not ready to sing “You are my sunshine” while watching 2016 Finals Game 7 on repeat, you're in the wrong place, buddy.
 
 Bronsexuals unite!
+
+## LeBron plays ball, We write code
+
+[em](https://github.com/LeBron-James-Fan-Club/em_language)
